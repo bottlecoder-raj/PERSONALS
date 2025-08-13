@@ -1,3 +1,0 @@
-System.out.println("Hello world");    //for printing on display
-
-Main method details
