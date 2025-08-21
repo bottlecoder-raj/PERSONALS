@@ -9,6 +9,10 @@ public class Array {
             System.out.println("Counter is at: "+ counter++);
             System.out.println(number);
         }
+        String[] friends = {"Raj","shinchan","panther","androo"};
+        for(String friend : friends){
+            System.out.println("Welcome to the party: "+ friend.toUpperCase());
+        }
     }
 
 
